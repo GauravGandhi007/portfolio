@@ -132,7 +132,7 @@ const Contactus = () => {
               </Buttonrounded>
               <Buttonrounded
                 link={
-                  "https://drive.google.com/file/d/16WHiMiXJB_NLAQryoBeUn6jguT5sgtte/view?usp=sharing"
+                  "https://drive.google.com/file/d/1pSPC8WVVK12SUnUAU2dxJd4NyRYEkr8Z/view?usp=sharing"
                 }
                 title={"Resume"}
               >
