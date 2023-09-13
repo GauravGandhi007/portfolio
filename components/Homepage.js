@@ -51,7 +51,7 @@ const Home = () => {
             <Buttonrounded link={'https://github.com/GauravGandhi007'} title={'Github'}>
               <FaGithub color="#433f40" size={25} />
             </Buttonrounded>
-            <Buttonrounded link={'https://drive.google.com/file/d/1tVrQEWO2NGcc2fxYFhBbPWhljOd9L5HL/view?usp=sharing'} title={"Resume"}>
+            <Buttonrounded link={'https://drive.google.com/file/d/16WHiMiXJB_NLAQryoBeUn6jguT5sgtte/view?usp=sharing'} title={"Resume"}>
               <FaWpforms color="black" size={25} />
             </Buttonrounded>
             <Buttonrounded link={'https://api.whatsapp.com/send?phone=918299507506'} title={'Whatsapp'}> 
