@@ -96,7 +96,7 @@ const Navbar = () => {
             <Buttonrounded link={'https://github.com/adityakshk499'} title={'Github'}>
               <FaGithub color="#433f40" size={25} />
             </Buttonrounded>
-            <Buttonrounded link={'https://drive.google.com/file/d/16WHiMiXJB_NLAQryoBeUn6jguT5sgtte/view?usp=sharing'} title={"Resume"}>
+            <Buttonrounded link={'https://drive.google.com/file/d/1pSPC8WVVK12SUnUAU2dxJd4NyRYEkr8Z/view?usp=sharing'} title={"Resume"}>
               <FaWpforms color="black" size={25} />
             </Buttonrounded>
             <Buttonrounded link={'https://api.whatsapp.com/send?phone=919897545121'} title={'Whatsapp'}> 
